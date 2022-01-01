@@ -1,4 +1,5 @@
-# bt-ccxt-store
+# btbacktrader
+based on bt-ccxt-store, and rebuild
 A fork of Ed Bartosh's CCXT Store Work with some additions added for a projects
 I have been working on.
 
